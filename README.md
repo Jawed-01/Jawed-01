@@ -33,14 +33,11 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" />
 </p>
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Jawed-01&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
-</p>
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jawed-01&layout=compact&theme=tokyonight&hide_border=true" width="420" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Jawed-01&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs,contribs&include_all_commits=true" width="420" />
 </p>
 
 ## 🌐 Connect With Me
