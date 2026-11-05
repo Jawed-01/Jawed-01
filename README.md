@@ -13,6 +13,17 @@
 - 🎯 My goal is to become a **Full Stack Developer**.
 - 💡 I enjoy building responsive websites and learning new technologies.
 
+- ## 🌐 Socials:
+
+<p>
+  <a href="https://www.linkedin.com/in/jawed-khan-223b003aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jawed-01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ## 💻 Tech Stack
 
 <p>
@@ -34,21 +45,14 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawed-01&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawed-01&layout=compact&theme=tokyonight" height="160" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jawed-01&show_icons=true&theme=tokyonight" height="180" />
 </p>
 
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/jawed-khan-223b003aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jawed-01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawed-01&layout=compact&theme=tokyonight" height="180" />
 </p>
+
 
 ---
 
