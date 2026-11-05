@@ -13,16 +13,7 @@
 - 🎯 My goal is to become a **Full Stack Developer**.
 - 💡 I enjoy building responsive websites and learning new technologies.
 
-- ## 🌐 Socials:
 
-<p>
-  <a href="https://www.linkedin.com/in/jawed-khan-223b003aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Jawed-01">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ## 💻 Tech Stack
 
@@ -53,7 +44,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawed-01&layout=compact&theme=tokyonight" height="180" />
 </p>
 
-
+🌐 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/jawed-khan-223b003aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jawed-01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 <h3 align="center">⭐ Keep Learning | Keep Building | Keep Growing 🚀</h3>
