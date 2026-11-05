@@ -35,21 +35,20 @@
 </p>
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Jawed-01&show_icons=true&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=Jawed-01&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
 </p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jawed-01&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jawed-01&layout=compact&theme=tokyonight&hide_border=true" width="420" />
 </p>
-
 ## 🌐 Connect With Me
 
 <div>
   <a href="https://www.linkedin.com/in/jawed-khan-223b003aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;;
+  &nbsp;
   <a href="https://github.com/Jawed-01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
