@@ -1,36 +1,55 @@
-# Hi, I'm Jawed Khan! 👋
+# 👋 Hi, I'm Jawed Khan
+
+<h3 align="center">Aspiring Full Stack Developer | Web Development Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+Learner;Currently+Learning+JavaScript;Future+Full+Stack+Developer" />
+</p>
 
 ## 💫 About Me
 
-💻 I'm an aspiring **Full Stack Developer** passionate about web development.
+- 👨‍💻 I'm passionate about Web Development.
+- 🌱 Currently learning **JavaScript**.
+- 🎯 My goal is to become a **Full Stack Developer**.
+- 💡 I enjoy building responsive websites and learning new technologies.
 
-🌱 Currently learning **JavaScript** and improving my web development skills.
+## 💻 Tech Stack
 
-### 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-- HTML5
-- CSS3
-- JavaScript (Learning)
-- Bootstrap 5
-- Git & GitHub
-- VS Code
-- Font Awesome
-- Netlify
-- Microsoft Office
+## 🛠️ Tools
 
-### 🎯 My Goals
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white" />
+</p>
 
-- Build responsive websites.
-- Improve my coding skills.
-- Learn Frontend and Backend Development.
-- Become a skilled Full Stack Developer.
+## 📊 GitHub Stats
 
-### 🌐 Connect With Me
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jawed-01&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawed-01&layout=compact&theme=tokyonight" height="160" />
+</p>
 
-- **GitHub:** [Jawed-01](https://github.com/Jawed-01)
-- **LinkedIn:** [Jawed Khan
-](https://www.linkedin.com/in/jawed-khan-223b003aa/)
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/jawed-khan-223b003aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jawed-01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ Keep Learning | Keep Building | Keep Growing! 🚀
+<h3 align="center">⭐ Keep Learning | Keep Building | Keep Growing 🚀</h3>
