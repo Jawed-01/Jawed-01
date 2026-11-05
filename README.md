@@ -42,6 +42,7 @@
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jawed-01&layout=compact&theme=tokyonight&hide_border=true" width="420" />
 </p>
+
 ## 🌐 Connect With Me
 
 <div>
